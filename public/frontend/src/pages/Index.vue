@@ -1,8 +1,5 @@
 <template>
  <div class="row content">
-
-fadsfhksfhdk
-
   <div>
     <q-splitter
       v-model="splitterModel"
